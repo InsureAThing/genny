@@ -11,7 +11,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/InsureAThing/genny/parse"
+	"github.com/LakaHQ/genny/parse"
 )
 
 /*
